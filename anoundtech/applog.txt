@@ -1,0 +1,100 @@
+INFO    2022-05-10 14:57:47,478 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-10 14:57:47,480 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-10 14:57:47,480 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-10 14:57:47,480 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-10 14:57:47,480 [main] anoundtech.StringDemo  - false
+INFO    2022-05-10 14:57:47,480 [main] anoundtech.StringDemo  - true
+INFO    2022-05-10 14:57:47,480 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-10 14:57:47,480 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-10 14:57:47,480 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-10 14:57:47,481 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-10 14:58:28,909 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-10 14:58:28,910 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-10 14:58:28,910 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-10 14:58:28,910 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-10 14:58:28,910 [main] anoundtech.StringDemo  - false
+INFO    2022-05-10 14:58:28,910 [main] anoundtech.StringDemo  - true
+INFO    2022-05-10 14:58:28,911 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-10 14:58:28,911 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-10 14:58:28,911 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-10 14:58:28,911 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-10 15:13:40,204 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-10 15:13:40,205 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-10 15:13:40,205 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-10 15:13:40,205 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-10 15:13:40,205 [main] anoundtech.StringDemo  - false
+INFO    2022-05-10 15:13:40,206 [main] anoundtech.StringDemo  - true
+INFO    2022-05-10 15:13:40,206 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-10 15:13:40,206 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-10 15:13:40,206 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-10 15:13:40,206 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-10 15:13:52,731 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-10 15:13:52,732 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-10 15:13:52,732 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-10 15:13:52,732 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-10 15:13:52,733 [main] anoundtech.StringDemo  - false
+INFO    2022-05-10 15:13:52,733 [main] anoundtech.StringDemo  - true
+INFO    2022-05-10 15:13:52,733 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-10 15:13:52,733 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-10 15:13:52,733 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-10 15:13:52,733 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-10 15:16:29,275 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-10 15:16:29,276 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-10 15:16:29,276 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-10 15:16:29,276 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-10 15:16:29,276 [main] anoundtech.StringDemo  - false
+INFO    2022-05-10 15:16:29,277 [main] anoundtech.StringDemo  - true
+INFO    2022-05-10 15:16:29,277 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-10 15:16:29,277 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-10 15:16:29,277 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-10 15:16:29,277 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-10 15:17:19,137 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-10 15:17:19,139 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-10 15:17:19,139 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-10 15:17:19,139 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-10 15:17:19,139 [main] anoundtech.StringDemo  - false
+INFO    2022-05-10 15:17:19,139 [main] anoundtech.StringDemo  - true
+INFO    2022-05-10 15:17:19,139 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-10 15:17:19,139 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-10 15:17:19,139 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-10 15:17:19,140 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-10 15:17:23,583 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - false
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - true
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-10 15:17:23,585 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-10 15:36:05,174 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-10 15:36:05,175 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-10 15:36:05,175 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-10 15:36:05,175 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-10 15:36:05,175 [main] anoundtech.StringDemo  - false
+INFO    2022-05-10 15:36:05,175 [main] anoundtech.StringDemo  - true
+INFO    2022-05-10 15:36:05,175 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-10 15:36:05,175 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-10 15:36:05,176 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-10 15:36:05,176 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-11 09:04:55,325 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - false
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - true
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-11 09:04:55,327 [main] anoundtech.StringDemo  - 2
+INFO    2022-05-11 09:37:26,050 [main] anoundtech.StringDemo  - The value is..:h
+INFO    2022-05-11 09:37:26,051 [main] anoundtech.StringDemo  - The sub str is...:lo world
+INFO    2022-05-11 09:37:26,051 [main] anoundtech.StringDemo  - The value is..:lo w
+INFO    2022-05-11 09:37:26,051 [main] anoundtech.StringDemo  - The va...:6
+INFO    2022-05-11 09:37:26,052 [main] anoundtech.StringDemo  - false
+INFO    2022-05-11 09:37:26,052 [main] anoundtech.StringDemo  - true
+INFO    2022-05-11 09:37:26,052 [main] anoundtech.StringDemo  - 65
+INFO    2022-05-11 09:37:26,052 [main] anoundtech.StringDemo  - 67
+INFO    2022-05-11 09:37:26,052 [main] anoundtech.StringDemo  - -2
+INFO    2022-05-11 09:37:26,052 [main] anoundtech.StringDemo  - 2
