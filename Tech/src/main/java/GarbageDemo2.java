@@ -3,12 +3,8 @@ import java.lang.ref.WeakReference;
 public class GarbageDemo2 {
 
 	public static void main(String[] args) {
-		Runtime r=Runtime.getRuntime();
-		System.out.println("Available memory ..:"+r.freeMemory());
-		System.out.println("Available Processors..:"+r.availableProcessors());
-		System.out.println("Free Memory..:"+r.freeMemory());
-		r.gc();
 		
+		Runtime r=Runtime.getRuntime();
 		Food food=new Food();
 		System.out.println("Free Memory..:"+r.freeMemory());
 		WeakReference weak=new WeakReference(food);
