@@ -1,38 +1,21 @@
 
 public class SuperWithVariables {
-
 	public static void main(String[] args) {
-		
-		varMed vn=new varMed();
- System.out. println(vn.top);
- 
- vn.getmet();
- 
- vn.getmet();
- 
+		VarBot vb=new VarBot();
+		System.out.println(vb.top);
+		vb.met();
 	}
-
 }
-class varTop{
+class VarTop{
+	int top=30;
+}
+class VarMed extends VarTop{
 	int top=20;
-	
 }
-class varMed extends varTop{
-	int top=40;
-	
-	public void getmet() {
-		System.out.println("Local...:"+top);
-		System.out.println("Parent..:"+super.top);
-}
-class varNut extends varMed{
+class VarBot extends VarMed{
 	int top=10;
 	public void met() {
-	super.getmet();
-	
 		System.out.println("Local...:"+top);
 		System.out.println("Parent..:"+super.top);
 	}
-
-	
-}
 }
