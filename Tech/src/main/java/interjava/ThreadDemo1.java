@@ -9,9 +9,7 @@ public class ThreadDemo1 {
 	public static void main(String[] args) {
 		System.out.println("SOUP...");
 		
-		ExecutorService es=Executors.newFixedThreadPool(1);
-		es.execute(()->{met();});
-		es.shutdown();
+		
 		
 		
 		System.out.println("STARTER.....");
@@ -20,13 +18,12 @@ public class ThreadDemo1 {
 		
 	}
 	public static void met() {
-		try {Thread.sleep(500);}catch(Exception e) {}
+		try {Thread.sleep(500);Thread.sleep(3000);}catch(Exception e) {}
+		System.out.println("MAIN ITEM....");
 		System.out.println("MAIN ITEM....");
 	}
 	
-	public static void getmet() {
-		try {Thread.sleep(600);}catch(Exception e) {}
-		System.out.println("MA ITEM....");
+	
 }
-}
+
 	
