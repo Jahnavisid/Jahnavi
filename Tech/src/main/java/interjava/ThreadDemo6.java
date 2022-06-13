@@ -7,7 +7,7 @@ public class ThreadDemo6 {
 	public static void main(String[] args) {
 		ExecutorService es=Executors.newFixedThreadPool(2);
 		es.execute(
-			()->{ {
+			()->{ synchronized(Theatre.class) {
 				Thread.currentThread().setName("rajini");
 				Theatre.toilet.useToilet();
 			}
@@ -35,6 +35,8 @@ class Toilet{
 			Thread.sleep(5000);}catch(Exception e) {
 			}
 		System.out.println(name+" came out of toilet...");
+		
+		System.out.println(name+" came out and use the tissue..");
 	}
 }
 		
