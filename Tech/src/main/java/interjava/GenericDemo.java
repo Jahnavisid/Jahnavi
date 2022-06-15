@@ -3,11 +3,11 @@ package interjava;
 public class GenericDemo {
 
 	public static void main(String[] args) {
-	GoodPaintBrushVer3<Water> gp=new GoodPaintBrushVer3<>();
-	Water water=new Water();
-	gp.setObj(water);
-	water=(Water)gp.getObj();
-	water.sprinkle();
+	GoodPaintBrushVer3<Air> gp=new GoodPaintBrushVer3<>();
+	Air air=new Air();
+	gp.setObj(air);
+	air=(Air)gp.getObj();
+	air.dusting();
 	
 	
 	}
