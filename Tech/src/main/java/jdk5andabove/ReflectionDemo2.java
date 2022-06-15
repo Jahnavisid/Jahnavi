@@ -5,7 +5,7 @@ public class ReflectionDemo2 {
 		Demo obj=new Demo();
 		System.out.println(obj);
 		
-		Demo demo=(Demo)Class.forName("jdk5andabove.Demo").newInstance();//dynamic
+		Demo demo=(Demo)Class.forName("jdk5andabove.Demo").newInstance();
 		System.out.println(demo);
 		
 		demo=(Demo)Class.forName("jdk5andabove.Demo").getConstructor().newInstance();
