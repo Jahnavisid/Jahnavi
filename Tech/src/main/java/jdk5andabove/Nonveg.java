@@ -6,5 +6,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.Retention;
 @Retention(RUNTIME)
 public @interface Nonveg {
-
+public int ratio();
+public String val() default"";
+public String[] values();
 }

@@ -5,7 +5,7 @@ public class Food {
 public void rice() {
 	
 }
-@Nonveg
+@Nonveg(ratio=10,val="pure",values={"aa","bb"})
 public void mutton() {
 	
 }
