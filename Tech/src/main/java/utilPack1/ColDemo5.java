@@ -15,7 +15,7 @@ public class ColDemo5 {
 	System.out.println(map);
 	key1=null;
 	System.out.println(map);
-	
+	System.gc();
 	System.out.println(map);
 }
 }
