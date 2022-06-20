@@ -8,6 +8,7 @@ public class ColDemo {
 
 	public static void main(String[] args) {
 		Set<String> hs=new HashSet<String>();
+		
 		hs.add("aaa");
 		hs.add("baa");
 		hs.add("caa");
@@ -18,14 +19,21 @@ public class ColDemo {
 		System.out.println(hs.isEmpty());
 		System.out.println(hs.contains("baa"));
 		hs.forEach(System.out::println);
-		hs.forEach(new MyConsumer());
+		//hs.forEach(new MyConsumer());
+	   // hs.forEach((s)->{System.out.println(s);});
+	
+	  
+	    //hs.forEach(System.out::println);
 		Iterator<String>it=hs.iterator();
 		while(it.hasNext()) {
 			System.out.println(it.next());
+			
+		
 		}
 	}
 	
 	static void print(String s) {
+		
 		System.out.println(s);
 	}
 			
@@ -44,3 +52,4 @@ class MyConsumer implements Consumer<String>{
 
 	
 }
+
