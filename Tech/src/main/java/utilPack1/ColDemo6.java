@@ -16,14 +16,22 @@ public class ColDemo6 {
 		System.out.println(prop.get("s121"));
 		
 		
-		Set s=prop.entrySet();
-		Iterator iter=s.iterator();
-		while(iter.hasNext()) {
-			Map.Entry me=(Map.Entry)iter.next();
-			System.out.println(me.getKey()+":"+me.getValue());
-		}
+		//Set s=prop.entrySet();
+		//Iterator iter=s.iterator();
+		//while(iter.hasNext()) {
+			//Map.Entry me=(Map.Entry)iter.next();
+			//System.out.println(me.getKey()+":"+me.getValue());
+		//}
 		
 		
-	}
+//	}
 
+//}
+Set s=prop.entrySet();
+Iterator iter=s.iterator();
+while(iter.hasNext()) {
+	Map.Entry me=(Map.Entry)iter.next();
+	System.err.println(me.getKey()+":"+me.getValue());
+}
+}
 }

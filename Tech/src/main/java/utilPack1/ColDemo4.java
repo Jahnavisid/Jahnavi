@@ -16,13 +16,21 @@ public class ColDemo4 {
 	hm.put("444","kalyani");
 	System.out.println(hm);
 	//System.out.println(hm.get("s222"));
+	//Set<Map.Entry<String,String>>s=hm.entrySet();
+	//Iterator<Map.Entry<String,String>>iter=s.iterator();
+	//while(iter.hasNext()) {
+		//Map.Entry<String, String>me=iter.next();
+		//System.out.println(me.getKey()+":"+me.getValue());
+		
+	//}
+	//}
+
+//}
 	Set<Map.Entry<String,String>>s=hm.entrySet();
 	Iterator<Map.Entry<String,String>>iter=s.iterator();
 	while(iter.hasNext()) {
 		Map.Entry<String, String>me=iter.next();
 		System.out.println(me.getKey()+":"+me.getValue());
-		
 	}
 	}
-
-}
+	}

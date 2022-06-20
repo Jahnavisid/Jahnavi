@@ -19,3 +19,4 @@ public class ColDemo5 {
 	System.out.println(map);
 }
 }
+
