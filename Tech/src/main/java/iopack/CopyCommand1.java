@@ -20,18 +20,19 @@ public class CopyCommand1 {
 			e.printStackTrace();
 			
 		}
-		try (
-			BufferedInputStream fis=new BufferedInputStream(urlcon.getInputStream());
-				FileOutputStream fos=new FileOutputStream("newfilebyte.html");
-		){
-			byte[] b=new byte[128];
-			int bytesread=0;
-			while((bytesread=fis.read(b))!=-1) {
-				//String s=new String(b,0,bytesread);
-				fos.write(b, 0, bytesread);
-			}
-		}catch(Exception e) {
-				e.printStackTrace();
-			}
+	
+try (
+		BufferedInputStream fis=new BufferedInputStream(urlcon.getInputStream());
+			FileOutputStream fos=new FileOutputStream("newfilebyte.html");
+	){
+		byte[] b=new byte[128];
+		int bytesread=0;
+		while((bytesread=fis.read(b))!=-1) {
+			//String s=new String(b,0,bytesread);
+			fos.write(b, 0, bytesread);
+		}
+	}catch(Exception e) {
+			e.printStackTrace();
 		}
 	}
+}
