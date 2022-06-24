@@ -17,11 +17,12 @@ public class JDBCDemo3 {
 		System.out.println(con);
 		//Step 3 - Execute sql statement
 		
-		String sql="update users set flag=? where uname=?";
+		String sql="update users set flag=? where uid=?";
 		PreparedStatement stmt=con.prepareStatement(sql);
 		
-		stmt.setInt(1,2 );
-		stmt.setInt(2, 2);
+		stmt.setInt(1, 6 );
+		stmt.setInt(2, 4);
+		
 		int noofrowschanged=stmt.executeUpdate();
 		
 		//step 4 - process result
